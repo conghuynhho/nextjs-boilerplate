@@ -1,0 +1,60 @@
+{
+    "theme_color": "#496CDC",
+    "background_color": "#f2efec",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "スキジャン",
+    "short_name": "スキジャン",
+    "description": "スキジャンはスキルを売買するプラットフォーム。\n簡単操作でスキルが売れる!買える!\n◇スキジャンおすすめ3ポイント◇\n・5ステップのカンタン出品であなたのスキルがお金に変わる!\n・出品登録、購入にかかる手数料0円!\n・個人情報を出さずにチャットでやり取りするだけで納品完了!",
+    "screenshots": [
+      {
+        "src": "/ja/static/pwa/images/PWA_img_01_ver1.0.jpg",
+        "sizes": "960x1920",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "/ja/static/pwa/images/PWA_img_02_ver1.0.jpg",
+        "sizes": "960x1920",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "/ja/static/pwa/images/PWA_img_03_ver1.0.jpg",
+        "sizes": "960x1920",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "/ja/static/pwa/images/PWA_img_04_ver1.0.jpg",
+        "sizes": "960x1920",
+        "type": "image/jpeg"
+      }
+    ],
+    "icons": [
+        {
+            "src": "/ja/static/pwa/icon/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+        "src": "/ja/static/pwa/icon/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/ja/static/pwa/icon/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/ja/static/pwa/icon/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+       {
+            "src": "/ja/static/pwa/icon/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+       }
+    ]
+}
